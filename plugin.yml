@@ -1,0 +1,15 @@
+main: me.featureable.easybackpacks.EasyBackPacks
+name: EasyBackpacks
+version: 1.0.1
+author: Featureable
+description: Easy backpacks plugin for your players.
+website: www.featureable.cf
+
+commands:
+  backpack:
+    description: Open your backpack
+
+permissions:
+  easybp.open:
+    description: This permission allows a player to open their backpack.
+    default: op
